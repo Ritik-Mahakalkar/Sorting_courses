@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import "./CourseList.css"; // Custom CSS file
+import "./CourseList.css"; 
 
 const mockCourses = [
   {
